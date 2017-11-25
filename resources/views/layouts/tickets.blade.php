@@ -223,7 +223,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="one text-center">
-                                <p>© Copyrights 2017 <a href="https://diskominfo.bantenprov.go.id/" target="_blank">{{$settings->copyrights}}</a> All rights reserved</p>
+                                <p>© Copyrights 2017 <a href="https://diskominfo.bantenprov.go.id/" target="_blank">DISKOMINFOSP PROV BANTEN</a> All rights reserved</p>
                             </div>
                         </div>
                     </div>
