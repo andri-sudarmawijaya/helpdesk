@@ -18,7 +18,7 @@ class SettingsTableSeeder extends Seeder
         $settings->footer_logo = 'footer-logo.png';
         $settings->description = '';
         $settings->footer_description = 'Helpdesk';
-        $settings->copyrights = '© Copyrights 2017 All rights reserved';
+        $settings->copyrights = '© Copyrights 2017 Helpdesk All rights reserved';
         $settings->keywords = '';
         $settings->facebook = '';
         $settings->twitter = '';
