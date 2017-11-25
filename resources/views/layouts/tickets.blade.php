@@ -210,8 +210,7 @@
                         <div class="col-md-12">
                             <div class="section-one">
                                 <img src="{{asset('uploads')}}/{{$settings->footer_logo}}" class="img-responsive" alt="Nothing">
-                                <p class="media-body" style="color:Black;">{{$settings->footer_description}}
-                                </p>
+                           
                                
                             </div>
                         </div>
